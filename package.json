@@ -1,7 +1,6 @@
 {
   "name": "frontend__pro",
   "version": "1.0.0",
-  "description": "",
   "main": "script.js",
   "dependencies": {
     "acorn": "^8.7.0",
@@ -180,5 +179,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoomBunnyBoss/cost_calculation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BoomBunnyBoss/cost_calculation/issues"
+  },
+  "homepage": "https://github.com/BoomBunnyBoss/cost_calculation#readme",
+  "description": ""
 }
